@@ -1,0 +1,29 @@
+#RandomPythonAI Ver 1
+#Created by EmeryCool21
+
+#Variables
+play = "play"
+
+#MainCode
+import time
+
+print("EmeryCool21's RandomPythonAI V1")
+time.sleep(1)
+Input1 = input("Serial Key:")
+
+print("Serial key succesfuly activated")
+time.sleep(1)
+print("Starting AI")
+print(" ")
+
+print("RandomPythonAI")
+print("Type [play] to start playing")
+print("More features coming soon")
+print("Visit [COMING SOON] or type [Info] for more information")
+print(" ")
+mode = input("Choose mode:")
+
+if mode == play:
+    print("Oh, so u wanna play something?")
+    time.sleep(1)
+    print("I have some games for u if you're bored")
